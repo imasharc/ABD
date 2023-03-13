@@ -1,3 +1,5 @@
 /materials/
 /tutorials/databases/
 /tutorials/scripts/generative_scripts/
+*.doc
+*.pptx
