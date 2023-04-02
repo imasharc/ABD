@@ -1,5 +1,2 @@
-/materials/
+/materials/sql_server/lectures
 /tutorials/sql_server/databases/
-/tutorials/sql_server/scripts/generative_scripts/
-*.doc
-*.pptx
