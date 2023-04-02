@@ -1,5 +1,5 @@
 /materials/
-/tutorials/databases/
-/tutorials/scripts/generative_scripts/
+/tutorials/sql_server/databases/
+/tutorials/sql_server/scripts/generative_scripts/
 *.doc
 *.pptx
