@@ -47,4 +47,5 @@ BEGIN
 	SET NOCOUNT OFF
 END
 
-EXEC dbo.add_rows 100000 -- elapsed time 00:06:33
+EXEC dbo.add_rows 10000 -- elapsed time 00:00:49
+-- EXEC dbo.add_rows 10000 -- elapsed time 00:06:33
