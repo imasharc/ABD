@@ -1,4 +1,4 @@
--- DROP TABLE IF EXISTS dbo.table_1;
+DROP TABLE IF EXISTS dbo.table_1;
 
 CREATE TABLE dbo.table_1 (
 	id int PRIMARY KEY,
