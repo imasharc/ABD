@@ -127,3 +127,8 @@ RESTORE DATABASE is terminating abnormally.
 
 USE abd_5
 SELECT * FROM table_2
+
+-- 5. Do the exercise 1 once again, but this time use „backup device”. You may use Management Studio GUI or SQL commands.
+-- DONE WITH GUI
+
+-- 
